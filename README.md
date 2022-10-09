@@ -1,1 +1,3 @@
-# b7web-projetoawax
+# Site com html e CSS
+
+Site totalmente responsivo, utilizando html e css.
